@@ -1,7 +1,7 @@
 # Sistema Recomendaciones
 Implementation of dice algorithm with emotion feature
 
-Instrucciones de Instalacion:
+Instructions:
 
 1. Create folder "dice" on htdocs [Xampp]
 2. Create database on phpmyadmin: "recomendationsystem"
