@@ -1,5 +1,6 @@
 # Sistema Recomendaciones
-Implementation of dice algorithm with emotion feature
+Implementation of dice algorithm.
+TO DO : add emotion feature to algorithm logic.
 
 Instructions:
 
